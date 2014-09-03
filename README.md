@@ -1,16 +1,16 @@
 #[jQuery Upload File](http://xiebaochun.github.com/jquery-upload-file-docs/index.html)
 
-##Overview
+##Overview（概览）
 jQuery Upload File plugin provides Multiple file Uploads with progress bar.Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
 
 ---
 
-#Demo
+#Demo（示例）
 http://xiebaochun.github.com/jquery-upload-file-docs/index.html
 
 ---
 
-#Supported Browsers
+#Supported Browsers（兼容的浏览器）
 IE 8.0,IE 9.0,IE 10.0,Firefox,Safari,Opera,Chrome
 
 Drag drop is supported in IE10,Firefox,Safari,Opera,Chrome
@@ -51,7 +51,7 @@ uploadObj.getResponses()
 
 ---
 
-##Options
+##Options（选项）
 
 ###url
 Server URL which handles File uploads 
