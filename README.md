@@ -1,4 +1,4 @@
-#[jQuery Upload File](http://xiebaochun.github.com/jquery-upload-file-docs.html)
+#[jQuery Upload File](http://xiebaochun.github.com/jquery-upload-file-docs/index.html)
 
 ##Overview
 jQuery Upload File plugin provides Multiple file Uploads with progress bar.Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
@@ -6,7 +6,7 @@ jQuery Upload File plugin provides Multiple file Uploads with progress bar.Works
 ---
 
 #Demo
-http://xiebaochun.github.com/jquery-upload-file-docs.html
+http://xiebaochun.github.com/jquery-upload-file-docs/index.html
 
 ---
 

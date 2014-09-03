@@ -29,9 +29,9 @@
 }
 ],
 "homepage": "https://github.com/xiebaochun/jquery-upload-file",
-"docs": "http://xiebaochun.github.com/jquery-upload-file-docs.html",
+"docs": "http://xiebaochun.github.com/jquery-upload-file-docs/index.html",
 "download": "https://github.com/xiebaochun/jquery-upload-file",
-"demo": "http://xiebaochun.github.com/jquery-upload-file-docs.html",
+"demo": "http://xiebaochun.github.com/jquery-upload-file-docs/index.html",
 "dependencies": {
 "jquery": ">=1.6",
 "form": ""
